@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec45c35-5adb-437e-a514-8ca884d6f539" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WalpapererConsole/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1578137145270" expanded="true" signature="6:70" ph="..." />
+                <marker date="1578137145270" expanded="true" signature="99:639" ph="{...}" />
+                <marker date="1578137145270" expanded="true" signature="119:637" ph="{...}" />
+                <marker date="1578137145270" expanded="true" signature="165:631" ph="{...}" />
+                <marker date="1578137145270" expanded="true" signature="404:523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/DailyWallpaperProvider.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1578137361807" expanded="true" signature="6:105" ph="..." />
+                <marker date="1578137361807" expanded="true" signature="140:1394" ph="{...}" />
+                <marker date="1578137361807" expanded="true" signature="202:1392" ph="{...}" />
+                <marker date="1578137361807" expanded="true" signature="378:1386" ph="{...}" />
+                <marker date="1578137361807" expanded="true" signature="750:894" ph="{...}" />
+                <marker date="1578137361807" expanded="true" signature="1025:1350" ph="{...}" />
+                <marker date="1578137361807" expanded="true" signature="1223:1336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WpStorage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WpData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/BingWallpaperProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Utils/Waiter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E8D4299-BFA6-4998-B1C3-A8500640BE45/9c/34aa0443/AsyncVoidMethodBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E8D4299-BFA6-4998-B1C3-A8500640BE45/84/0e41ecf0/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WallpaperProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/WallpaperSetter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/DailyWallpaperProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WalpapererConsole/Bing/ProviderMode.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WalpapererConsole/Wallpaperer.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/WpCore.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Waiter.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/ImageSaver.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/IWallpaperProvider.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/ArgsUtils.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/ProviderUtils.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/WallpaperProvider.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/BingWallpaperProvider.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/WpStorage.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/WpData.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/WallpaperSetter.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/ProviderMode.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Program.cs" />
+        <option value="$PROJECT_DIR$/WalpapererConsole/Bing/DailyWallpaperProvider.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="22" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Wallpaperer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Wallpaperer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WalpapererConsole" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Wallpaperer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WalpapererConsole" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bing" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WalpapererConsole/bin/Debug/WalpapererConsole.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WalpapererConsole/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WalpapererConsole/WalpapererConsole.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec45c35-5adb-437e-a514-8ca884d6f539" name="Default Changelist" comment="" />
+      <created>1578045507265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578045507265</updated>
+      <workItem from="1578045510272" duration="10353000" />
+      <workItem from="1578136881891" duration="1386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11739000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994664" visible="true" weight="0.20191796" />
+      <window_info id="Structure" order="1" sideWeight="0.50053364" side_tool="true" weight="0.19978689" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2796158" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42069742" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32550693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Wallpaperer.cs" />
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/WpCore.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E8D4299-BFA6-4998-B1C3-A8500640BE45/9c/34aa0443/AsyncVoidMethodBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2E8D4299-BFA6-4998-B1C3-A8500640BE45/84/0e41ecf0/ExecutionContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="339" column="6" selection-start-line="339" selection-start-column="6" selection-end-line="339" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Utils/Waiter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <marker date="1578048510393" expanded="true" signature="6:34" ph="..." />
+            <marker date="1578048510393" expanded="true" signature="63:563" ph="{...}" />
+            <marker date="1578048510393" expanded="true" signature="89:561" ph="{...}" />
+            <marker date="1578048510393" expanded="true" signature="135:555" ph="{...}" />
+            <marker date="1578048510393" expanded="true" signature="295:356" ph="{...}" />
+            <marker date="1578048510393" expanded="true" signature="467:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/ImageSaver.cs" />
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/ProviderUtils.cs" />
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WpStorage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <marker date="1578137049464" expanded="true" signature="6:82" ph="..." />
+            <marker date="1578137049464" expanded="true" signature="117:1357" ph="{...}" />
+            <marker date="1578137049464" expanded="true" signature="146:1355" ph="{...}" />
+            <marker date="1578137049464" expanded="true" signature="417:491" ph="{...}" />
+            <marker date="1578137049464" expanded="true" signature="545:947" ph="{...}" />
+            <marker date="1578137049464" expanded="true" signature="1018:1349" ph="{...}" />
+            <marker date="1578137049464" expanded="true" signature="1193:1314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WpData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <marker date="1578137083951" expanded="false" signature="6:115" ph="..." />
+            <marker date="1578137083951" expanded="true" signature="150:1216" ph="{...}" />
+            <marker date="1578137083951" expanded="true" signature="169:292" ph="{...}" />
+            <marker date="1578137083951" expanded="true" signature="315:963" ph="{...}" />
+            <marker date="1578137083951" expanded="true" signature="988:1214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/WallpaperProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1578137045698" expanded="true" signature="6:65" ph="..." />
+            <marker date="1578137045698" expanded="true" signature="100:662" ph="{...}" />
+            <marker date="1578137045698" expanded="true" signature="146:660" ph="{...}" />
+            <marker date="1578137045698" expanded="true" signature="266:654" ph="{...}" />
+            <marker date="1578137045698" expanded="true" signature="302:644" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/BingWallpaperProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <marker date="1578137070726" expanded="true" signature="6:142" ph="..." />
+            <marker date="1578137070726" expanded="true" signature="172:1109" ph="{...}" />
+            <marker date="1578137070726" expanded="true" signature="226:1107" ph="{...}" />
+            <marker date="1578137070726" expanded="true" signature="392:473" ph="{...}" />
+            <marker date="1578137070726" expanded="true" signature="509:1101" ph="{...}" />
+            <marker date="1578137070726" expanded="true" signature="582:1091" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/ProviderMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <marker date="1578137093407" expanded="true" signature="33:147" ph="{...}" />
+            <marker date="1578137093407" expanded="true" signature="64:145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/WallpaperSetter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1578137086121" expanded="true" signature="6:60" ph="..." />
+            <marker date="1578137086121" expanded="true" signature="90:801" ph="{...}" />
+            <marker date="1578137086121" expanded="true" signature="125:799" ph="{...}" />
+            <marker date="1578137086121" expanded="true" signature="508:793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1578137145270" expanded="true" signature="6:70" ph="..." />
+            <marker date="1578137145270" expanded="true" signature="99:639" ph="{...}" />
+            <marker date="1578137145270" expanded="true" signature="119:637" ph="{...}" />
+            <marker date="1578137145270" expanded="true" signature="165:631" ph="{...}" />
+            <marker date="1578137145270" expanded="true" signature="404:523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WalpapererConsole/Bing/DailyWallpaperProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1578137361807" expanded="true" signature="6:105" ph="..." />
+            <marker date="1578137361807" expanded="true" signature="140:1394" ph="{...}" />
+            <marker date="1578137361807" expanded="true" signature="202:1392" ph="{...}" />
+            <marker date="1578137361807" expanded="true" signature="378:1386" ph="{...}" />
+            <marker date="1578137361807" expanded="true" signature="750:894" ph="{...}" />
+            <marker date="1578137361807" expanded="true" signature="1025:1350" ph="{...}" />
+            <marker date="1578137361807" expanded="true" signature="1223:1336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
