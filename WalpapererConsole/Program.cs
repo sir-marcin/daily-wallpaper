@@ -1,17 +1,18 @@
 ﻿using System;
-using WallpapererConsole;
-using WallpapererConsole.Bing;
-using WallpapererConsole.Core;
-using WallpapererConsole.Core.Provider;
+using Wallpepper.Core;
+using Wallpepper.Core.Provider;
+using Wallpepper.Storage;
 
-namespace WalpapererConsole
+namespace Wallpepper
 {
     class Program
     {
         static void Main(string[] args)
         {
-            WpStorage storage = new WpStorage();
+            LocalStorage localStorage = new LocalStorage();
             Config config = Config.TryLoadFromLocalStorage();
+            
+            Console.WriteLine($"Config: {config}");
             
             WallpaperProvider provider = WallpaperProvider.GetProvider(config.WallpaperProviderMode);
 
@@ -23,8 +24,9 @@ namespace WalpapererConsole
                 return;
             }
             
-            storage.SaveImage(image);
-            WallpaperSetter.Set(storage.Path);
+            string imagePath = localStorage.SaveImage(image, config.WallpaperProviderMode);
+            WallpaperSetter.Set(imagePath);
+            Console.WriteLine($"Saved at {imagePath}");
         }
     }
 }
