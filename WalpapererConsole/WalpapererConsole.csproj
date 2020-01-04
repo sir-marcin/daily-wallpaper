@@ -48,16 +48,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bing\DailyWallpaperProvider.cs" />
-    <Compile Include="Bing\WallpaperProvider.cs" />
-    <Compile Include="Bing\ProviderMode.cs" />
     <Compile Include="Bing\WpData.cs" />
     <Compile Include="Bing\WpStorage.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Core\Provider\BingWallpaperProvider.cs" />
+    <Compile Include="Core\Provider\DailyWallpaperProvider.cs" />
+    <Compile Include="Core\Provider\ProviderMode.cs" />
+    <Compile Include="Core\Provider\WallpaperProvider.cs" />
+    <Compile Include="Core\WallpaperSetter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Bing\BingWallpaperProvider.cs" />
     <Compile Include="Utils\Waiter.cs" />
-    <Compile Include="WallpaperSetter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,7 +1,7 @@
 using System;
 using System.Timers;
 
-namespace WalpapererConsole
+namespace WallpapererConsole.Utils
 {
     public class Waiter
     {

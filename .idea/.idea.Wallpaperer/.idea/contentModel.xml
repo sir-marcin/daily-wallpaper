@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\mrcmu\.Rider2019.1\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\mrcmu\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Wallpaperer.1341032259.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mrcmu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mrcmu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Wallpaperer.1341032259.00" t="ExcludeRecursive" />
     <e p="D:\_dev\C#\Projects\Wallpaperer\Wallpaperer" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Wallpaperer.sln" t="IncludeFlat" />
@@ -10,12 +10,18 @@
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Bing" t="Include">
-          <e p="BingWallpaperProvider.cs" t="Include" />
-          <e p="DailyWallpaperProvider.cs" t="Include" />
-          <e p="ProviderMode.cs" t="Include" />
-          <e p="WallpaperProvider.cs" t="Include" />
           <e p="WpData.cs" t="Include" />
           <e p="WpStorage.cs" t="Include" />
+        </e>
+        <e p="Config.cs" t="Include" />
+        <e p="Core" t="Include">
+          <e p="Provider" t="Include">
+            <e p="BingWallpaperProvider.cs" t="Include" />
+            <e p="DailyWallpaperProvider.cs" t="Include" />
+            <e p="ProviderMode.cs" t="Include" />
+            <e p="WallpaperProvider.cs" t="Include" />
+          </e>
+          <e p="WallpaperSetter.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
@@ -26,7 +32,6 @@
         <e p="Utils" t="Include">
           <e p="Waiter.cs" t="Include" />
         </e>
-        <e p="WallpaperSetter.cs" t="Include" />
         <e p="WalpapererConsole.csproj" t="IncludeRecursive" />
       </e>
     </e>

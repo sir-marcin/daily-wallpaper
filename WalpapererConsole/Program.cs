@@ -1,6 +1,8 @@
 ﻿using System;
 using WallpapererConsole;
 using WallpapererConsole.Bing;
+using WallpapererConsole.Core;
+using WallpapererConsole.Core.Provider;
 
 namespace WalpapererConsole
 {
@@ -9,7 +11,9 @@ namespace WalpapererConsole
         static void Main(string[] args)
         {
             WpStorage storage = new WpStorage();
-            WallpaperProvider provider = WallpaperProvider.GetProvider(ProviderMode.DailyLockscreen);
+            Config config = Config.TryLoadFromLocalStorage();
+            
+            WallpaperProvider provider = WallpaperProvider.GetProvider(config.WallpaperProviderMode);
 
             var image = provider.GetImage();
 
